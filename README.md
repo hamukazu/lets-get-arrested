@@ -1,6 +1,6 @@
 # Lets-get-arrested project
 
-In Japan, a schoolgirl was caught by the police for writing an endeless loop of aleart in JavaScript like this:
+In Japan, a schoolgirl was caught by the police for writing an endeless loop of alert in JavaScript like this:
 
         while (1) {
           aleart("!");
