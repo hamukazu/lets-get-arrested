@@ -1,5 +1,13 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jsSHA/2.3.1/sha.js"></script>
 <script>
   while (1) {
+      var nonce = new Uint32Array(1);
+      window.crypto.getRandomValues(nonce);
+      var sha = new jsSHA("SHA-256", "ARRAYBUFFER");
+      sha.update(Uint8Array.from(nonce));
+      const hash = sha.getHash("HEX");
+      console.log(nonce[0].toString(16) + ": " + hash);
+
       alert("!");
   }
 </script>
