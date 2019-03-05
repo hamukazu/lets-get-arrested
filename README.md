@@ -40,6 +40,6 @@ You can surrender yourself to the police.
 
 簡単です。このプロジェクトをフォークし、 gh-pages ブランチを切ってください。それだけで終わりです。"http://あなたのアカウント.github.io/lets-get-arrested" という URL を SNS で共有するとより効果的でしょう。
 
-## 逮捕されませんか？
+## なかなか逮捕されませんか？
 
 警察に自首することができます。
