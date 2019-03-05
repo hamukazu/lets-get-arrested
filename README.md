@@ -6,7 +6,7 @@ In Japan, a schoolgirl was caught by the police for writing an endeless loop of 
           aleart("!");
         }
 
-Related news artilce (Japanese):
+Related news article (Japanese):
 [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 
 So this is regarded as a "crime" in Japan. So let's be criminals and get arrested!
