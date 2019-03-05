@@ -21,3 +21,25 @@ It's easy. Fork this project and branch it as gh-pages. It's all done. It would 
 
 You can surrender yourself to the police.
 
+# みんなで逮捕されようプロジェクト
+
+日本において、ある女子中学生が以下のようなアラートの無限ループを JavaScript で書いたとして警察に補導されました:
+
+        while (1) {
+          aleart("!");
+        }
+
+関連記事:
+[https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+
+よってこれは日本では「犯罪」と見做されます。それではみんなで犯罪者になり逮捕されましょう！
+
+良い犯罪者生活を！
+
+## 逮捕される方法
+
+簡単です。このプロジェクトをフォークし、 gh-pages ブランチを切ってください。それだけで終わりです。"http://あなたのアカウント.github.io/lets-get-arrested" という URL を SNS で共有するとより効果的でしょう。
+
+## 逮捕されませんか？
+
+警察に自首することができます。
