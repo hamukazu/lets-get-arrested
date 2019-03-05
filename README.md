@@ -1,9 +1,9 @@
 # Lets-get-arrested project
 
-In Japan, a schoolgirl was caught by the police for putting a link to a website with an endeless loop of alert in JavaScript like this:
+In Japan, a schoolgirl was caught by the police for putting a link to a website with an endless loop of alert in JavaScript like this:
 
         while (1) {
-          aleart("!");
+          alert("!");
         }
 
 Related news article (Japanese):
@@ -23,10 +23,10 @@ You can surrender yourself to the police.
 
 # みんなで逮捕されようプロジェクト
 
-日本において、ある女子中学生が以下のようなアラートの無限ループを JavaScript で書いたとして警察に補導されました:
+日本において、以下のようなアラートの無限ループを JavaScript で書いたサイトへのリンクを貼ったことである女子中学生が警察に補導されました:
 
         while (1) {
-          aleart("!");
+          alert("!");
         }
 
 関連記事:
