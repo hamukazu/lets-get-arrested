@@ -95,7 +95,7 @@ You can surrender yourself to the police.
 
 ## 如何被逮捕
 
-很简单。Fork这个项目，并切换到gh-pages分支就完成了。如果能在社交网站分享"http://你的帐号.github.io/lets-get-arrested"的话会更有效果。
+很简单。Fork这个项目，并切换到gh-pages分支就完成了。如果能在社交网站分享 "http://你的帐号.github.io/lets-get-arrested" 的话会更有效果。
 
 ## 还没有被逮捕吗？
 
