@@ -23,6 +23,8 @@ Enjoy criminal life!
 
 It's easy. Fork this project and branch it as gh-pages. It's all done. It would be more effective to share the url "http://youraccount.github.io/lets-get-arrested" in a SNS.
 
+If you want to do this but in CLI to be more efficient, a npm module is now available! `npx @anjaraeu/get-arrested`
+
 ## Not arrested?
 
 You can surrender yourself to the police.
