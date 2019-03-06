@@ -1,6 +1,7 @@
 - [English](#Lets-get-arrested-project)
 - [日本語](#みんなで逮捕されようプロジェクト)
 - [한국어](#체포-프로젝트)
+- [Bahasa Indonesia](#Project-mari-kita-ditangkap)
 
 # Lets-get-arrested project
 
@@ -74,3 +75,28 @@ You can surrender yourself to the police.
 ## 체포되지 않는 경우?
 
 경찰에 직접 자수합니다.
+
+# Project-mari-kita-ditangkap
+
+Di Jepang, seorang gadis SMA ditangkap oleh polisi karena meletakkan link menuju ke sebuah website yang  berisi alert menggunakan endless loop pada Javascript seperti berikut:
+
+        while (1) {
+          alert("!");
+        }
+
+Artikel berita terkait:
+
+- (Bahasa Jepang) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Bahasa Inggris) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
+
+Hal ini dianggap perbuatan 'kriminal' di Jepang. Jadi, mari kita menjadi kriminal dan ditangkap!
+
+Selamat menikmati kehidupan kriminal!
+
+## Cara supaya ditangkap
+
+Caranya mudah. Fork project ini, lalu ubah branch-nya menjadi gh-pages. Persiapan selesai. Supaya lebih efektif, sebarkan url "http://youraccount.github.io/lets-get-arrested" ke sosmed kalian.
+
+## Belum ditangkap?
+
+Kamu bisa menyerahkan dirimu sendiri ke polisi.
