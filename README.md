@@ -5,7 +5,7 @@
 In Japan, a schoolgirl was caught by the police for putting a link to a website with an endless loop of alert in JavaScript like this:
 
         while (1) {
-          alert("!");
+          alert("    ∧_∧　ババババ\n（ ・ω・)=つ≡つ\n（っ ≡つ=つ\n`/　　)\n(ノΠＵ\n何回閉じても無駄ですよ～ww\nm9（＾Д＾）プギャー！！");
         }
 
 Related news article (Japanese):
@@ -28,7 +28,7 @@ You can surrender yourself to the police.
 日本において、以下のようなアラートの無限ループを JavaScript で書いたサイトへのリンクを貼ったことである女子中学生が警察に補導されました:
 
         while (1) {
-          alert("!");
+          alert("    ∧_∧　ババババ\n（ ・ω・)=つ≡つ\n（っ ≡つ=つ\n`/　　)\n(ノΠＵ\n何回閉じても無駄ですよ～ww\nm9（＾Д＾）プギャー！！");
         }
 
 関連記事:
