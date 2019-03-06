@@ -1,5 +1,7 @@
 # Lets-get-arrested project
 
+（日本語の説明は英語の後に続きます）
+
 In Japan, a schoolgirl was caught by the police for putting a link to a website with an endless loop of alert in JavaScript like this:
 
         while (1) {
