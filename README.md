@@ -1,6 +1,7 @@
 - [English](#Lets-get-arrested-project)
 - [日本語](#みんなで逮捕されようプロジェクト)
 - [한국어](#체포-프로젝트)
+- [简体中文](#项目-大家都来被逮捕吧)
 
 # Lets-get-arrested project
 
@@ -74,3 +75,28 @@ You can surrender yourself to the police.
 ## 체포되지 않는 경우?
 
 경찰에 직접 자수합니다.
+
+# 项目-大家都来被逮捕吧
+
+一名女中学生在日本被警察逮捕，原因是在网上张贴了指向包含如下无限弹出警告的JavaScript的网站的链接：
+
+        while (1) {
+          alert("!");
+        }
+
+相关文章:
+
+- (日文) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (英文) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
+
+据此以上行为在日本被当作“犯罪”处理。让我们都来成为犯罪者并被逮捕吧！
+
+大家犯罪愉快！
+
+## 如何被逮捕
+
+很简单。Fork这个项目，并切换到gh-pages分支就完成了。如果能在社交网站分享"http://你的帐号.github.io/lets-get-arrested"的话会更有效果。
+
+## 还没有被逮捕吗？
+
+向警察自首去吧。
