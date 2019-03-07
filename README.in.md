@@ -4,6 +4,7 @@
 - [Bahasa Indonesia](README.in.md)
 - [Español](README.es.md)
 - [简体中文](README.zh.md)
+- [Italiano](README.it.md)
 
 # Project-mari-kita-ditangkap
 
