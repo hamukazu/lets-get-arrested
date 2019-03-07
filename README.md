@@ -4,6 +4,7 @@
 - [Bahasa Indonesia](README.in.md)
 - [Español](README.es.md)
 - [简体中文](README.zh.md)
+- [Português Brasileiro](README.pt-br.md)
 
 # Lets-get-arrested project
 
