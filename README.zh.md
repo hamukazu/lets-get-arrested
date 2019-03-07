@@ -1,4 +1,5 @@
 - [English](README.md)
+- [Dutch](README.nl.md)
 - [日本語](README.ja.md)
 - [한국어](README.ko.md)
 - [Bahasa Indonesia](README.in.md)
@@ -9,9 +10,11 @@
 
 在日本，因为贴了一个前往包含下述无限警告循环的 JavaScript 的网站的链接，一名女中学生被警察逮捕并进行辅导：
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 相关新闻：
 [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)

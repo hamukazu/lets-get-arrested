@@ -9,11 +9,13 @@
 # Laten-we-gearresteerd-worden project
 
 In Japan werd een schoolmeisje opgepakt door de politie voor het plaatsen van een link naar een website met een eindeloze lustreeks in JavaScript, zoals dit:
+
 ```js
 while (1) {
   alert("!");
 }
 ```
+
 Gerelateerde nieuwsartikelen:
 
 - (Japans) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)

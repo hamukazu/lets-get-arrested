@@ -1,4 +1,5 @@
 - [English](README.md)
+- [Dutch](README.nl.md)
 - [日本語](README.ja.md)
 - [한국어](README.ko.md)
 - [Bahasa Indonesia](README.in.md)
@@ -9,9 +10,11 @@
 
 In Japan, a schoolgirl was caught by the police for putting a link to a website with an endless loop of alert in JavaScript like this:
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 Related news articles:
 
