@@ -3,6 +3,8 @@
 - [한국어](#체포-프로젝트)
 - [Italiano](#Un-progetto-mirato-ad-arrestare-tutti)
 
+---
+
 # Lets-get-arrested project
 
 In Japan, a schoolgirl was caught by the police for putting a link to a website with an endless loop of alert in JavaScript like this:
@@ -28,6 +30,8 @@ It's easy. Fork this project and branch it as gh-pages. It's all done. It would 
 
 You can surrender yourself to the police.
 
+---
+
 # みんなで逮捕されようプロジェクト
 
 日本において、以下のようなアラートの無限ループを JavaScript で書いたサイトへのリンクを貼ったことである女子中学生が警察に補導されました:
@@ -50,6 +54,8 @@ You can surrender yourself to the police.
 ## なかなか逮捕されませんか？
 
 警察に自首することができます。
+
+---
 
 # 체포 프로젝트
 
@@ -75,6 +81,8 @@ You can surrender yourself to the police.
 ## 체포되지 않는 경우?
 
 경찰에 직접 자수합니다.
+
+---
 
 # Un progetto mirato ad arrestare tutti
 
