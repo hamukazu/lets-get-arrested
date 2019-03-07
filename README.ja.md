@@ -1,9 +1,11 @@
-- [English](README.md)
+﻿- [English](README.md)
 - [日本語](README.ja.md)
 - [한국어](README.ko.md)
 - [Bahasa Indonesia](README.in.md)
 - [Español](README.es.md)
 - [简体中文](README.zh.md)
+- [français](#Projet-allons-se-faire-arrêter)
+- [العربية](#مشروع-هيا-بنا-لنعتقل)
 
 # みんなで逮捕されようプロジェクト
 
