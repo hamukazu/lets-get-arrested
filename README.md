@@ -2,6 +2,7 @@
 - [日本語](#みんなで逮捕されようプロジェクト)
 - [한국어](#체포-프로젝트)
 - [简体中文](#大家一起被捕吧计划)
+- [Bahasa Indonesia](#Project-mari-kita-ditangkap)
 
 # Lets-get-arrested project
 
@@ -22,7 +23,7 @@ Enjoy criminal life!
 
 ## How to get arrested
 
-It's easy. Fork this project and branch it as gh-pages. It's all done. It would be more effective to share the url "http://youraccount.github.io/lets-get-arrested" in a SNS.
+It's easy. Fork this project and branch it as gh-pages. It's all done. It would be more effective to share the url "http://youraccount.github.io/lets-get-arrested" in a Social media.
 
 ## Not arrested?
 
@@ -80,12 +81,9 @@ You can surrender yourself to the police.
 
 在日本，因为贴了一个前往包含下述无限警告循环的 JavaScript 的网站的链接，一名女中学生被警察逮捕并进行辅导：
 
-        while (1) {
-          alert("!");
-        }
-
 相关新闻：
-[https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (日文) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (英文) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 因此这在日本被视为“犯罪”。那么我们也一起成为罪犯被捕吧！
 
@@ -98,3 +96,28 @@ You can surrender yourself to the police.
 ## 总是没有警察来逮捕你？
 
 你也可以选择去警察局自首。
+
+# Project-mari-kita-ditangkap
+
+Di Jepang, seorang gadis SMA ditangkap oleh polisi karena meletakkan link menuju ke sebuah website yang  berisi alert menggunakan endless loop pada Javascript seperti berikut:
+
+        while (1) {
+          alert("!");
+        }
+
+Artikel berita terkait:
+
+- (Bahasa Jepang) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Bahasa Inggris) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
+
+Hal ini dianggap perbuatan 'kriminal' di Jepang. Jadi, mari kita menjadi kriminal dan ditangkap!
+
+Selamat menikmati kehidupan kriminal!
+
+## Cara supaya ditangkap
+
+Caranya mudah. Fork project ini, lalu ubah branch-nya menjadi gh-pages. Persiapan selesai. Supaya lebih efektif, sebarkan url "http://youraccount.github.io/lets-get-arrested" ke sosmed kalian.
+
+## Belum ditangkap?
+
+Kamu bisa menyerahkan dirimu sendiri ke polisi.
