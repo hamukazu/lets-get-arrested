@@ -4,8 +4,8 @@
 - [Bahasa Indonesia](README.in.md)
 - [Español](README.es.md)
 - [简体中文](README.zh.md)
-- [français](#Projet-allons-se-faire-arrêter)
-- [العربية](#مشروع-هيا-بنا-لنعتقل)
+- [français](README.fr.md)
+- [العربية](README.ar.md)
 
 # 大家一起被捕吧计划
 
