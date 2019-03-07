@@ -1,6 +1,7 @@
 - [English](#Lets-get-arrested-project)
 - [日本語](#みんなで逮捕されようプロジェクト)
 - [한국어](#체포-프로젝트)
+- [Italiano](#Un-progetto-mirato-ad-arrestare-tutti)
 
 # Lets-get-arrested project
 
@@ -74,3 +75,27 @@ You can surrender yourself to the police.
 ## 체포되지 않는 경우?
 
 경찰에 직접 자수합니다.
+
+# Un progetto mirato ad arrestare tutti
+
+In Giappone, un certo studente delle scuole medie di alcune ragazze ha ricevuto istruzioni dalla polizia a causa del link al sito che ha scritto il ciclo infinito di allerta come sotto con JavaScript come segue:
+
+
+    while (1) {
+      alert("!");
+    }
+
+Articoli correlati: https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html
+
+Pertanto, questo è considerato come "crimine" in Giappone. Andiamo tutti arrestati come criminali!
+
+Per favore invia una buona vita criminale!
+
+## Come posso essere arrestato?
+È facile Per.
+favore "Fork" questo progetto e crea un ramo "gh-pages". Questa è la fine.
+La condivisione dell'URL "https: //{your_account_name}.github.io/ lets-get-arrested" su SNS sarebbe più efficace.
+
+## Se non sei arrestato dalla polizia
+
+Puoi apparire su te stesso alla polizia.
