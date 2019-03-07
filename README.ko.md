@@ -3,6 +3,7 @@
 - [한국어](README.ko.md)
 - [Bahasa Indonesia](README.in.md)
 - [Español](README.es.md)
+- [简体中文](README.zh.md)
 
 # 체포 프로젝트
 
