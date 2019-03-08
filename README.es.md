@@ -4,9 +4,11 @@
 
 En Japón, una estudiante fue detenida por la policía por poner un _link_ a un sitio con un búcle infinito de `alerts` en JavaScript, similar a esto:
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 Artículos sobre el incidente:
 

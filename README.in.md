@@ -4,9 +4,11 @@
 
 Di Jepang, seorang gadis SMA ditangkap oleh polisi karena meletakkan link menuju ke sebuah website yang  berisi alert menggunakan endless loop pada Javascript seperti berikut:
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 Artikel berita terkait:
 
