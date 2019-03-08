@@ -5,6 +5,8 @@
 - [Español](README.es.md)
 - [简体中文](README.zh.md)
 - [Deutsch](README.de.md)
+- [français](README.fr.md)
+- [العربية](README.ar.md)
 
 # Lets-get-arrested project
 
