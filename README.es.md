@@ -1,10 +1,3 @@
-- [English](README.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Bahasa Indonesia](README.in.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
-
 # Proyecto que-nos-arresten
 
 En Japón, una estudiante fue detenida por la policía por poner un _link_ a un sitio con un búcle infinito de `alerts` en JavaScript, similar a esto:

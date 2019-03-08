@@ -1,10 +1,3 @@
-- [English](README.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Bahasa Indonesia](README.in.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
-
 # 大家一起被捕吧计划
 
 在日本，因为贴了一个前往包含下述无限警告循环的 JavaScript 的网站的链接，一名女中学生被警察逮捕并进行辅导：
