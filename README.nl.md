@@ -1,10 +1,4 @@
 - [English](README.md)
-- [Dutch](README.nl.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Bahasa Indonesia](README.in.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
 
 # Laten-we-gearresteerd-worden project
 
