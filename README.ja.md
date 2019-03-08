@@ -8,6 +8,7 @@
 - [français](README.fr.md)
 - [العربية](README.ar.md)
 - [Português Brasileiro](README.pt-br.md)
+- [Italiano](README.it.md)
 
 # みんなで逮捕されようプロジェクト
 
