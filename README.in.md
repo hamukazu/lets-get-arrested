@@ -1,3 +1,5 @@
+- [English](README.md)
+
 # Project-mari-kita-ditangkap
 
 Di Jepang, seorang gadis SMA ditangkap oleh polisi karena meletakkan link menuju ke sebuah website yang  berisi alert menggunakan endless loop pada Javascript seperti berikut:
