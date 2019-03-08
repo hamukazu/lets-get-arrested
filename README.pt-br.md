@@ -10,9 +10,11 @@
 
 No Japão, uma aluna foi pega pela polícia por colocar um link para um site com um loop infinito de alerta em JavaScript assim:
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 Notícias relacionadas ao incidente:
 

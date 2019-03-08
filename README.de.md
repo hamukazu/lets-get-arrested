@@ -4,9 +4,11 @@
 
 "Lets get arrested" steht für "Lasst uns verhaftet werden". In Japan wurde eine Schülerin von der Polizei verhaftet, weil sie einen Link zu einer Website mit einer Endlosschleife von Alarmen in JavaScript wie diesem geschaltet hatte:
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 Weiterführende Presseartikel:
 - (Japanisch) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
