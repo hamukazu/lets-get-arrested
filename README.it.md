@@ -10,9 +10,11 @@
 
 In Giappone, una studentessa é stata detenuta dalla polizia per aver messo un link ad un sito con un ciclo infinito in Javascript, come il seguente:
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 Articoli di giornale relativi:
 

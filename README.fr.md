@@ -11,9 +11,11 @@
 
 Au Japon, une collégienne a été arrêtée par la police pour avoir mis un lien vers un site Web avec une boucle d'alerte infini en JavaScript, comme ceci:
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 Articles de presse associés:
 
