@@ -5,7 +5,7 @@
 - [Español](README.es.md)
 - [简体中文](README.zh.md)
 - [Deutsch](README.de.md)
-- [français](README.fr.md)
+- [Français](README.fr.md)
 - [العربية](README.ar.md)
 - [Português Brasileiro](README.pt-br.md)
 - [Italiano](README.it.md)
