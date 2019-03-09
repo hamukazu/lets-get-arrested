@@ -1,5 +1,21 @@
+<head>
+<script>
+   var imglist = new Array(
+      "hey.jpg",
+      "police.jpeg",
+      "mig.jpeg",
+      "congapartyparrot.gif",
+      "congaparrot.gif" );
+   var selectnum = Math.floor(Math.random() * imglist.length);
+   var output = "<img src=" + imglist[selectnum] + ">";
+   document.write(output);
+</script>
+</head>
 <script>
   while (1) {
       alert("!");
   }
 </script>
+<noscript>
+   <img src="hey.jpg" alt="警察はIE">
+</noscript>
