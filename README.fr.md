@@ -1,15 +1,8 @@
-﻿- [English](README.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Bahasa Indonesia](README.in.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
-- [français](README.fr.md)
-- [العربية](README.ar.md)
+- [English](README.md)
 
-# Projet-allons-se-faire-arrêter
+# Projet faisons-nous-arrêter
 
-Au Japon, une collégienne a été arrêtée par la police pour avoir mis un lien vers un site Web avec une boucle d'alerte infini en JavaScript, comme ceci:
+Au Japon, une collégienne s'est faite arrêtée par la police pour avoir partagé un lien vers un site Web contenant une boucle d'alerte infinie en JavaScript, comme ceci :
 
 ```js
 while (1) {
@@ -17,19 +10,19 @@ while (1) {
 }
 ```
 
-Articles de presse associés:
+Articles de presse associés :
 
-- (Japonaise) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japonais) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (Anglais) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-Donc, cela est considéré comme un "crime" au Japon. Alors soyons des criminels et faisons-nous arrêter!
+Cela est donc considéré comme un "crime" au Japon. Alors devenons des criminels et faisons-nous arrêter !
 
-Profitez de la vie criminelle!
+Profitez de votre nouvelle vie de criminel !
 
 ## Comment se faire arrêter
 
-C'est facile. Fourchez ce projet et bifurquez-le en tant que gh-pages. C'est tout fait. Il serait plus efficace de partager l'URL "http://youraccount.github.io/lets-get-arrested" dans un média social.
+C'est facile. _Forkez_ ce projet et et créez un _branche_ nommée `gh-pages` . Et c'est fait ! Il serait plus efficace de partager l'URL "http://youraccount.github.io/lets-get-arrested" sur les réseaux sociaux.
 
-## Vous n'avez pas été arrêté?
+## Vous n'avez pas été arrêtés ?
 
 Vous pouvez vous rendre à la police.
