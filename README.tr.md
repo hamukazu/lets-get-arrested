@@ -15,7 +15,6 @@
 
 # Hadi-Tutuklan Projesi
 
-In Japan, a schoolgirl was caught by the police for putting a link to a website with an endless loop of alert in JavaScript like this:
 Japonya'da ilkokuldaki bir kız websitesine şu şekilde sonsuz bir JavaScript döngüsü koyduğu için polisler tarafından tutuklandı:
 ```js
 while (1) {
