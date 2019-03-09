@@ -1,4 +1,5 @@
 - [English](README.md)
+- [Русский](README.ru.md)
 
 # Project-mari-kita-ditangkap
 

@@ -5,6 +5,7 @@
 - [Español](README.es.md)
 - [简体中文](README.zh.md)
 - [Português Brasileiro](README.pt-br.md)
+- [Русский](README.ru.md)
 
 # Projeto todos-foram-presos-juntos
 

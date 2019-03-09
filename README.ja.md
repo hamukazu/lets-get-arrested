@@ -10,6 +10,7 @@
 - [Português Brasileiro](README.pt-br.md)
 - [Italiano](README.it.md)
 - [Nederlands](README.nl.md)
+- [Русский](README.ru.md)
 
 # みんなで逮捕されようプロジェクト
 
