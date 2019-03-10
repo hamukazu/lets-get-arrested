@@ -6,6 +6,7 @@
 - [Deutsch](README.de.md)
 - [français](README.fr.md)
 - [العربية](README.ar.md)
+- [Polski](README.pl.md)
 - [Português Brasileiro](README.pt-br.md)
 - [Italiano](README.it.md)
 - [Nederlands](README.nl.md)
