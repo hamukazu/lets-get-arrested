@@ -1,4 +1,4 @@
-- [English](README.md)
+- [Back to the top](README.md)
 
 # 大家一起被捕吧計劃
 
