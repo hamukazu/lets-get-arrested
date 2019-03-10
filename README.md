@@ -3,7 +3,7 @@
 In Japan, a schoolgirl was caught by the police for writing an endeless loop of aleart in JavaScript like this:
 
         while (1) {
-          aleart("!");
+          alert("!");
         }
 
 Related news artilce (Japanese):
