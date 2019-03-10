@@ -7,9 +7,9 @@
 - [français](README.fr.md)
 - [العربية](README.ar.md)
 
-# Projet-allons-se-faire-arrêter
+# Projet-faisons-nous-arrêter
 
-Au Japon, une collégienne a été arrêtée par la police pour avoir mis un lien vers un site Web avec une boucle d'alerte infini en JavaScript, comme ceci:
+Au Japon, une collégienne a été arrêtée par la police pour avoir mis un lien vers un site Web avec une boucle infinie d'alertes en JavaScript, comme ceci:
 
 ```js
 while (1) {
@@ -19,16 +19,16 @@ while (1) {
 
 Articles de presse associés:
 
-- (Japonaise) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japonais) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (Anglais) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-Donc, cela est considéré comme un "crime" au Japon. Alors soyons des criminels et faisons-nous arrêter!
+Si cela est considéré comme un "crime" au Japon, alors soyons des criminels et faisons-nous arrêter!
 
 Profitez de la vie criminelle!
 
 ## Comment se faire arrêter
 
-C'est facile. Fourchez ce projet et bifurquez-le en tant que gh-pages. C'est tout fait. Il serait plus efficace de partager l'URL "http://youraccount.github.io/lets-get-arrested" dans un média social.
+C'est facile. Forkez ce projet et créez une branche "gh-pages". C'est tout. Vous pouvez maintenant partager l'URL "http://youraccount.github.io/lets-get-arrested" sur les réseaux sociaux.
 
 ## Vous n'avez pas été arrêté?
 
