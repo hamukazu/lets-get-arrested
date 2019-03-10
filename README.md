@@ -21,19 +21,19 @@ while (1) {
   alert("!");
 }
 ```
-
 Related news articles:
 
 - (Japanese) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (English) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-So this is regarded as a "crime" in Japan. So let's be criminals and get arrested!
-
-Enjoy criminal life!
+This is regarded as "crime" in Japan. So let's be criminals and get arrested!
 
 ## How to get arrested
 
-It's easy. Fork this project and branch it as gh-pages. It's all done. It would be more effective to share the url "http://youraccount.github.io/lets-get-arrested" in a Social media.
+1. Fork this project and branch it as gh-pages. 
+2. Share "http://your-account.github.io/lets-get-arrested" in social media.
+
+Enjoy criminal life!
 
 ## Not arrested?
 
