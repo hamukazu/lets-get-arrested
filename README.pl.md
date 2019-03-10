@@ -33,7 +33,7 @@ Powodzenia w nowym, przestępczym życiu!
 
 ## Jak zostać aresztowanym
 
-To proste. Sforkuj ten projekt i ustaw branch na gh-pages. Gotowe. Bardziej efektywne będzie dzielenie się linkiem "http://twójnick.github.io/lets-get-arrested" w mediach społecznościowych..
+To proste. Sforkuj ten projekt i ustaw branch na gh-pages. Gotowe. Bardziej efektywne będzie dzielenie się linkiem "http://twójnick.github.io/lets-get-arrested" w mediach społecznościowych.
 
 ## Nie zostałeś aresztowany?
 
