@@ -31,7 +31,7 @@ This is regarded as "crime" in Japan. So let's be criminals and get arrested!
 ## How to get arrested
 
 1. Fork this project and branch it as gh-pages. 
-2. Share "http://[your_account].github.io/lets-get-arrested" in social media.
+2. Share "http://your-account.github.io/lets-get-arrested" in social media.
 
 Enjoy criminal life!
 
