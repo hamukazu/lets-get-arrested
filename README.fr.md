@@ -1,11 +1,4 @@
 ﻿- [English](README.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Bahasa Indonesia](README.in.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
-- [français](README.fr.md)
-- [العربية](README.ar.md)
 
 # Projet-allons-se-faire-arrêter
 
