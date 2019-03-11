@@ -2,6 +2,7 @@
 - [日本語](README.ja.md)
 - [한국어](README.ko.md)
 - [Bahasa Indonesia](README.in.md)
+- [বাংলা](README.bn.md)
 - [Español](README.es.md)
 - [Deutsch](README.de.md)
 - [français](README.fr.md)
