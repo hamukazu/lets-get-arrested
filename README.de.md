@@ -1,5 +1,4 @@
 - [English](README.md)
-- [Русский](README.ru.md)
 
 # Lets-get-arrested Projekt
 

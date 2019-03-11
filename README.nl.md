@@ -1,5 +1,4 @@
 - [English](README.md)
-- [Русский](README.ru.md)
 
 # Laten-we-gearresteerd-worden project
 

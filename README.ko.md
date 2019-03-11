@@ -1,5 +1,4 @@
 - [English](README.md)
-- [Русский](README.ru.md)
 
 # 체포 프로젝트
 

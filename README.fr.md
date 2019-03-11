@@ -6,7 +6,6 @@
 - [简体中文](README.zh.md)
 - [français](README.fr.md)
 - [العربية](README.ar.md)
-- [Русский](README.ru.md)
 
 # Projet-allons-se-faire-arrêter
 

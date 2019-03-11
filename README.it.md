@@ -5,7 +5,6 @@
 - [Español](README.es.md)
 - [简体中文](README.zh.md)
 - [Italiano](README.it.md)
-- [Русский](README.ru.md)
 
 # Progetto facciamoci arrestare
 
