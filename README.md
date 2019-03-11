@@ -13,7 +13,7 @@
 - [简体中文](README.zh_hans.md)
 - [繁體中文](README.zh_hant.md)
 - [Türkçe](README.tr.md)
-
+- [Русский](README.ru.md)
 
 # Lets-get-arrested project
 
