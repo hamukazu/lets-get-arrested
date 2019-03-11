@@ -18,6 +18,7 @@
 - [Polski](README.pl.md)
 - [Esperanto](README.eo.md)
 - [Svenska](README.se.md)
+- [Norsk](README.no.md)
 
 # Lets-get-arrested project
 
