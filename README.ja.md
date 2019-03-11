@@ -3,13 +3,15 @@
 - [한국어](README.ko.md)
 - [Bahasa Indonesia](README.in.md)
 - [Español](README.es.md)
-- [简体中文](README.zh.md)
 - [Deutsch](README.de.md)
 - [français](README.fr.md)
 - [العربية](README.ar.md)
 - [Português Brasileiro](README.pt-br.md)
 - [Italiano](README.it.md)
 - [Nederlands](README.nl.md)
+- [简体中文](README.zh_hans.md)
+- [繁體中文](README.zh_hant.md)
+
 
 # みんなで逮捕されようプロジェクト
 
@@ -30,7 +32,7 @@ while (1) {
 
 ## 逮捕される方法
 
-簡単です。このプロジェクトをフォークし、 gh-pages ブランチを切ってください。それだけで終わりです。"http://あなたのアカウント.github.io/lets-get-arrested" という URL を SNS で共有するとより効果的でしょう。
+簡単です。このプロジェクトをフォークし、 gh-pages ブランチを切ってください。それだけで終わりです。"http://{あなたのアカウント}.github.io/lets-get-arrested" という URL を SNS で共有するとより効果的でしょう。
 
 ## なかなか逮捕されませんか？
 
