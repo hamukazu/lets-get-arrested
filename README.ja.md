@@ -2,6 +2,7 @@
 - [日本語](README.ja.md)
 - [한국어](README.ko.md)
 - [Bahasa Indonesia](README.in.md)
+- [বাংলা](README.bn.md)
 - [Español](README.es.md)
 - [Deutsch](README.de.md)
 - [français](README.fr.md)
@@ -11,7 +12,12 @@
 - [Nederlands](README.nl.md)
 - [简体中文](README.zh_hans.md)
 - [繁體中文](README.zh_hant.md)
-
+- [Türkçe](README.tr.md)
+- [Bangla](README.bn.md)
+- [Русский](README.ru.md)
+- [Polski](README.pl.md)
+- [Esperanto](README.eo.md)
+- [Svenska](README.se.md)
 
 # みんなで逮捕されようプロジェクト
 
