@@ -26,4 +26,4 @@ Es simple. _Forkea_ este proyecto y creá un _branch_ llamado `gh-pages`. Eso es
 
 ## ¿No te arrestaron?
 
-Podes entregarte a la policía.
+Podés entregarte a la policía.
