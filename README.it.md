@@ -8,6 +8,8 @@
 
 # Progetto facciamoci arrestare
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 In Giappone, una studentessa é stata detenuta dalla polizia per aver messo un link ad un sito con un ciclo infinito in Javascript, come il seguente:
 
 ```js

@@ -2,6 +2,8 @@
 
 # Laten-we-gearresteerd-worden project
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 In Japan werd een schoolmeisje opgepakt door de politie voor het plaatsen van een link naar een website met een eindeloze lustreeks in JavaScript, zoals dit:
 
 ```js

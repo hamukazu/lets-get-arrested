@@ -2,6 +2,8 @@
 
 # Project-mari-kita-ditangkap
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Di Jepang, seorang gadis SMA ditangkap oleh polisi karena meletakkan link menuju ke sebuah website yang  berisi alert menggunakan endless loop pada Javascript seperti berikut:
 
 ```js

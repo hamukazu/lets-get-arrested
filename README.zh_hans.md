@@ -2,6 +2,8 @@
 
 # 大家一起被捕吧计划
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 在日本，因为贴了一个前往包含下述无限警告循环的 JavaScript 的网站的链接，一名女中学生被警察逮捕并进行辅导：
 
         while (1) {

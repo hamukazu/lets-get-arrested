@@ -8,6 +8,8 @@
 
 # Projeto todos-foram-presos-juntos
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 No Japão, uma aluna foi pega pela polícia por colocar um link para um site com um loop infinito de alerta em JavaScript assim:
 
 ```js
