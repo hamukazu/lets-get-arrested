@@ -21,7 +21,7 @@ Artık bir suçlu olarak yeni hayatınızın tadını çıkarın !
 
 ## Nasıl tutuklanırsın
 
-Bu tabikide çok kolay. Bu projeyi çatallayın ve bir gh-pages branch'ı oluşturun. Ve bu linkinizi "http://youraccount.github.io/lets-get-arrested" sosyal medyada paylaşırsanız daha faydalı olabilir.
+Çok kolay. Bu projeyi çatallayın ve gh-pages branch'ını oluşturun. "http://youraccount.github.io/lets-get-arrested" linkini sosyal medyada paylaşmak daha da faydalı olur.
 
 ## Hala mu tutuklanmadın?
 
