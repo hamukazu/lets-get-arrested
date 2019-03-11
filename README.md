@@ -35,6 +35,11 @@ Enjoy criminal life!
 
 It's easy. Fork this project and branch it as gh-pages. It's all done. It would be more effective to share the url "http://{youraccount}.github.io/lets-get-arrested" in a Social media.
 
+## using npm module
+
+Node.js CLI: https://www.npmjs.com/package/@anjaraeu/get-arrested
+Browser: https://www.npmjs.com/package/lets-get-arrested
+
 ## Not arrested?
 
 You can surrender yourself to the police.

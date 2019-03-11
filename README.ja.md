@@ -34,6 +34,13 @@ while (1) {
 
 簡単です。このプロジェクトをフォークし、 gh-pages ブランチを切ってください。それだけで終わりです。"http://{あなたのアカウント}.github.io/lets-get-arrested" という URL を SNS で共有するとより効果的でしょう。
 
+## npmモジュールを使う方法
+
+Node.js CLI: https://www.npmjs.com/package/@anjaraeu/get-arrested
+Browser: https://www.npmjs.com/package/lets-get-arrested
+
+それぞれのREADME.mdを読んで正しく使用し、逮捕されにいきましょう。
+
 ## なかなか逮捕されませんか？
 
 警察に自首することができます。
