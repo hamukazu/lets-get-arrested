@@ -27,8 +27,8 @@ Aproveite a sua vida do crime!
 
 ## Como ser preso
 
-É muito simples. Faça um _fork_ do projeto com a _branch_ chamada `gh-pages` (se não houver, crie). Está tudo pronto. Seria mais eficaz compartilhar a URL "http://youraccount.github.io/lets-get-arrested" em mídias sociais.
+É muito simples. Faça um _fork_ do projeto com a _branch_ chamada `gh-pages` (se não houver, crie). Pronto! Uma forma eficaz seria compartilhar a URL "http://{youraccount}.github.io/lets-get-arrested" em mídias sociais.
 
-## Não há ninguem para prendê-lo ?
+## Não foi preso?
 
 Você pode se entregar à polícia.
