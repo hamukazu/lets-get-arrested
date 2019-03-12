@@ -6,7 +6,7 @@
 - [简体中文](README.zh.md)
 - [Português Brasileiro](README.pt-br.md)
 
-# Projeto todos-foram-presos-juntos
+# Projeto vamos-ser-presos
 
 No Japão, uma aluna foi pega pela polícia por colocar um link para um site com um loop infinito de alerta em JavaScript assim:
 
