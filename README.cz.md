@@ -17,7 +17,7 @@ Více na:
 - [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html) (Japonsky)
 
 
-Ač to může znít neuvěřitelně, v zemi vycházejícího slunce i tohle dnes spadá pod kriminální aktivitu.
+Ač to může znít neuvěřitelně, v zemi vycházejícího slunce se i tohle dá označit za trestný čin.
 
 Připojte se tedy k nám, staňte se zločinci a nechte se zatknout také!
 
