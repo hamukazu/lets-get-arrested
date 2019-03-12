@@ -1,0 +1,15 @@
+<script>
+  const f = 0x4E00;
+  const r = 0x9FFF;
+  const ara_name = () =>{ 
+    const name = Array(2);
+    const span = r - f + 1;
+    for (var i = 0; i < 2; i++) {
+      name[i] = f + Math.floor(Math.random() * span);
+    }
+    return String.fromCharCode.apply(String, name);
+  }
+  while (1) {
+    alert("新元号は「 " + ara_name() + " 」だ！！");
+  }
+</script>
