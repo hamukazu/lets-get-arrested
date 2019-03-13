@@ -21,7 +21,7 @@ Geniet van het criminelen leven!
 
 ## Hoe gearresteerd te worden
 
-Het is makkelijk. Fork dit project en vertak het als gh-pagina's. Het is allemaal klaar. Het zou effectiever zijn om de URL "http://youraccount.github.io/lets-get-arrested" op sociale media te delen.
+Het is makkelijk. Fork dit project en vertak het als gh-pagina's. Het is allemaal klaar. Het zou effectiever zijn om de URL "https://youraccount.github.io/lets-get-arrested" op sociale media te delen.
 
 ## Niet gearresteerd?
 

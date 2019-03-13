@@ -21,7 +21,7 @@ Selamat menikmati kehidupan kriminal!
 
 ## Cara supaya ditangkap
 
-Caranya mudah. Fork project ini, lalu ubah branch-nya menjadi gh-pages. Persiapan selesai. Supaya lebih efektif, sebarkan url "http://youraccount.github.io/lets-get-arrested" ke sosmed kalian.
+Caranya mudah. Fork project ini, lalu ubah branch-nya menjadi gh-pages. Persiapan selesai. Supaya lebih efektif, sebarkan url "https://youraccount.github.io/lets-get-arrested" ke sosmed kalian.
 
 ## Belum ditangkap?
 
