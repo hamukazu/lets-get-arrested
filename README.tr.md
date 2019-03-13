@@ -17,12 +17,12 @@ while (1) {
 
 Yani bu Japonya'da bir "suç" olarak kabul edilir. Öyleyse suçlu olalım ve tutuklanalım!
 
-Artık bir suçlu olarak yeni hayatınızın tadını çıkarın !
+Artık bir suçlu olarak yeni hayatınızın tadını çıkarın!
 
 ## Nasıl tutuklanırsın
 
 Çok kolay. Bu projeyi çatallayın ve gh-pages branch'ını oluşturun. "http://youraccount.github.io/lets-get-arrested" linkini sosyal medyada paylaşmak daha da faydalı olur.
 
-## Hala mu tutuklanmadın?
+## Hala tutuklanmadın mı?
 
 Polise kendinizi ihbar edip teslim olabilirsiniz.
