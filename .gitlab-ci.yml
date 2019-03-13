@@ -1,0 +1,10 @@
+pages:
+  stage: deploy
+  script:
+    - mkdir public
+    - mv index.html public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master

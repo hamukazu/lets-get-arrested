@@ -21,7 +21,7 @@ Nyt kriminal-livet!
 
 ## Hvordan bli arrestert
 
-Det er lett. Fork dette prosjektet og branche det som gh-pages. Det er alt. Det er mer effektivt å dele denne url-en "http://{dinkonto}.github.io/lets-get-arrested" i sosiale media.
+Det er lett. Fork dette prosjektet og branche det som gh-pages. Det er alt. Det er mer effektivt å dele denne url-en "https://{dinkonto}.github.io/lets-get-arrested" i sosiale media.
 
 ## Ikke arrestert?
 
