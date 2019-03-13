@@ -1,9 +1,9 @@
 # Lets-get-arrested project
 
-In Japan, a schoolgirl was caught by the police for writing an endeless loop of aleart in JavaScript like this:
+In Japan, a schoolgirl was caught by the police for writing an endless loop of alert in JavaScript like this:
 
         while (1) {
-          aleart("!");
+          alert("!");
         }
 
 Related news artilce (Japanese):
@@ -15,7 +15,7 @@ Enjoy criminal life!
 
 ## How to get arrested
 
-It's easy. Fork this project and branch it as gh-pages. It's all done. It would be more effective to share the url "http://youraccount.github.io/lets-get-arrested" in a SNS.
+It's easy. Fork this project and branch it as gh-pages. It's all done. It would be more effective to share the URL "http://youraccount.github.io/lets-get-arrested" on social media.
 
 ## Not arrested?
 
