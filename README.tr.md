@@ -12,7 +12,7 @@ while (1) {
 
 İlgili Haberler:
 
-- (Japonca) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japonca) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://web.archive.org/web/20190309122153/https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (İngilizce) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 Yani bu Japonya'da bir "suç" olarak kabul edilir. Öyleyse suçlu olalım ve tutuklanalım!

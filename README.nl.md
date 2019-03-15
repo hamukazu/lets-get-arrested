@@ -12,7 +12,7 @@ while (1) {
 
 Gerelateerde nieuwsartikelen:
 
-- (Japans) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japans) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://web.archive.org/web/20190309122153/https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (Engels) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 Dus dit wordt beschouwd als een "misdaad" in Japan. Dus laten we criminelen zijn en gearresteerd worden!

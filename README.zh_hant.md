@@ -11,7 +11,7 @@ while (1) {
 ```
 
 相關新聞：
-[https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+[https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://web.archive.org/web/20190309122153/https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 
 因此這在日本被視為“犯罪”。那麼我們也一起成為罪犯被捕吧！
 

@@ -14,7 +14,7 @@ while (1) {
 
 Kapcsolódó hírek:
 
-- (Japán nyelvű) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japán nyelvű) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://web.archive.org/web/20190309122153/https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (Angol nyelvű) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 A fentieket alapul véve, ez egy jogerős bűncselekedetnek számít. Tehát legyünk

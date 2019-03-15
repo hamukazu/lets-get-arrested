@@ -12,7 +12,7 @@ while (1) {
 
 Rilataj raportaĵoj:
 
-- (Japano) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japano) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://web.archive.org/web/20190309122153/https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (Anglo) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 Do ĉi tio estas rigardata kiel "krimo" en Japanio. Do ni estu krimuloj kaj estu arestitaj!
