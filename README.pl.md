@@ -15,7 +15,7 @@ A zatem zostańmy przestępcami!
 
 ## Jak zostać przestępcą
 
-Łatwizna. Zrób forka tego projektu i zrób brancha gh-pages. To wszystko! Możesz też wstawić link do "http://twojekonto.github.io/lets-get-arrested" w miediach społecznościowych.
+Łatwizna. Zrób forka tego projektu i zrób brancha gh-pages. To wszystko! Możesz też wstawić link do "https://twojekonto.github.io/lets-get-arrested" w miediach społecznościowych.
 
 ## Zostałeś przestępcą ale nie trafiłeś do więzenia?
 

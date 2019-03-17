@@ -23,7 +23,7 @@ while (1) {
 
 ## How to get arrested
 
-এটা খুবই সহজ ব্যাপার। এই প্রোজেক্ট টি fork করুন এবং gh-pages ব্রাঞ্চ তৈরি করুন। এটা আরও ভালো হয় যদি আপনার url "http://youraccount.github.io/lets-get-arrested" টা সামাজিক যোগাযোগ মাধ্যমে ছড়িয়ে দেন।
+এটা খুবই সহজ ব্যাপার। এই প্রোজেক্ট টি fork করুন এবং gh-pages ব্রাঞ্চ তৈরি করুন। এটা আরও ভালো হয় যদি আপনার url "https://youraccount.github.io/lets-get-arrested" টা সামাজিক যোগাযোগ মাধ্যমে ছড়িয়ে দেন।
 
 ## Not arrested?
 

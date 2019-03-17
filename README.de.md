@@ -18,7 +18,7 @@ Dies wird also in Japan als "Verbrechen" angesehen. Also lasst uns Kriminelle se
 Genieße das "kriminelle" Leben!
 
 ## Wie man verhaftet wird
-Es ist ganz einfach. Forke dieses Projekt und verteile es als gh-Seite. Es ist alles getan. Es ist wirkungsvoller, die URL "http://youraccount.github.io/lets-get-arrested" in einem Sozialnetzwerk zu teilen.
+Es ist ganz einfach. Forke dieses Projekt und verteile es als gh-Seite. Es ist alles getan. Es ist wirkungsvoller, die URL "https://youraccount.github.io/lets-get-arrested" in einem Sozialnetzwerk zu teilen.
 
 ## Nicht verhaftet?
 Du kannst dich der Polizei stellen.

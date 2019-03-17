@@ -28,7 +28,7 @@ Profitez de la vie criminelle!
 
 ## Comment se faire arrêter
 
-C'est facile. Fourchez ce projet et bifurquez-le en tant que gh-pages. C'est tout fait. Il serait plus efficace de partager l'URL "http://youraccount.github.io/lets-get-arrested" dans un média social.
+C'est facile. Fourchez ce projet et bifurquez-le en tant que gh-pages. C'est tout fait. Il serait plus efficace de partager l'URL "https://youraccount.github.io/lets-get-arrested" dans un média social.
 
 ## Vous n'avez pas été arrêté?
 

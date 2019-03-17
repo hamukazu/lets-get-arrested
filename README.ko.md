@@ -21,7 +21,7 @@ while (1) {
 
 ## 어떻게 체포되는 것일까?
 
-간단합니다. 이 프로젝트를 gh-pages branch에서 Fork합니다. 이것으로 끝입니다. 좀 더 효과적인 방법으로는 "http://youraccount.github.io/lets-get-arrested" 이 url 을 소셜미디어서비스(SNS)에 공유 하는 것입니다.
+간단합니다. 이 프로젝트를 gh-pages branch에서 Fork합니다. 이것으로 끝입니다. 좀 더 효과적인 방법으로는 "https://youraccount.github.io/lets-get-arrested" 이 url 을 소셜미디어서비스(SNS)에 공유 하는 것입니다.
 
 ## 체포되지 않는 경우?
 
