@@ -9,7 +9,7 @@
         }
 
 相关新闻：
-[https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+[https://www.infoq.cn/article/tRjjie9_OE21jeo7vBo2](https://www.infoq.cn/article/tRjjie9_OE21jeo7vBo2)
 
 因此这在日本被视为“犯罪”。那么我们也一起成为罪犯被捕吧！
 
