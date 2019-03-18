@@ -1,16 +1,16 @@
 <script>
   var lang = (navigator.browserLanguage || navigator.language).toLowerCase();
-  fetch('/locales/i81n.json')
+  fetch('/locales/i18n.json')
   .then(function(response) {
     return response.json();
   })
   .then(function(data) {
-    var i81n = data.find(function(item){
+    var i18n = data.find(function(item){
       return item.lang == lang;
     });
     while(1)
     {
-      alert(i81n.text);
+      alert(i18n.text);
     }
   });
 </script>
