@@ -3,26 +3,26 @@
 
 # Hadi-Tutuklan Projesi
 
-Japonya'da ilkokuldaki bir kız websitesine şu şekilde sonsuz bir JavaScript döngüsü koyduğu için polisler tarafından tutuklandı:
+Japonya'da ilkokula giden bir kız öğrenci bir web sayfasına şu şekilde sonsuz bir JavaScript döngüsü içeren bir sayfanın bağlantısını koyduğu için polisler tarafından tutuklandı:
 ```js
 while (1) {
   alert("!");
 }
 ```
 
-İlgili Haberler:
+İlgili haberler:
 
 - (Japonca) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (İngilizce) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-Yani bu Japonya'da bir "suç" olarak kabul edilir. Öyleyse suçlu olalım ve tutuklanalım!
+Yani bu, Japonya'da bir "suç" olarak kabul edilir. Öyleyse suçlu olalım ve tutuklanalım!
 
 Artık bir suçlu olarak yeni hayatınızın tadını çıkarın !
 
-## Nasıl tutuklanırsın
+## Nasıl tutuklanırsın?
 
-Çok kolay. Bu projeyi çatallayın ve gh-pages branch'ını oluşturun. "http://youraccount.github.io/lets-get-arrested" linkini sosyal medyada paylaşmak daha da faydalı olur.
+Çok kolay. Bu projeyi çatallayın ve gh-pages branşını oluşturun ve hazırsınız. "http://{hesapadınız}.github.io/lets-get-arrested" linkini sosyal medyada paylaşmak daha da faydalı olur. Twitter'da paylaşırken de ```#letsgetarrested4jscode``` etiketini kullanın.
 
-## Hala mu tutuklanmadın?
+## Hâlâ mı tutuklanmadın?
 
 Polise kendinizi ihbar edip teslim olabilirsiniz.
