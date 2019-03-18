@@ -1,28 +1,28 @@
 - [English](README.md)
 
+# Haydi tutuklanalım projesi
 
-# Hadi-Tutuklan Projesi
+Japonya'daki bir kız öğrenci, websitesine şu şekilde sonsuz bir JavaScript döngüsü koyduğu için polisler tarafından tutuklandı:
 
-Japonya'da ilkokuldaki bir kız websitesine şu şekilde sonsuz bir JavaScript döngüsü koyduğu için polisler tarafından tutuklandı:
 ```js
 while (1) {
   alert("!");
 }
 ```
 
-İlgili Haberler:
+İlgili haberler:
 
 - (Japonca) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (İngilizce) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-Yani bu Japonya'da bir "suç" olarak kabul edilir. Öyleyse suçlu olalım ve tutuklanalım!
+Bu Japonya'da bir "suç" olarak kabul ediliyor. Öyleyse biz de suçlu olalım ve tutuklanalım!
 
-Artık bir suçlu olarak yeni hayatınızın tadını çıkarın !
+Artık bir suçlu olarak yeni hayatınızın tadını çıkarın!
 
-## Nasıl tutuklanırsın
+## Nasıl tutuklanırsınız?
 
-Çok kolay. Bu projeyi çatallayın ve gh-pages branch'ını oluşturun. "http://youraccount.github.io/lets-get-arrested" linkini sosyal medyada paylaşmak daha da faydalı olur.
+Çok kolay. Bu projeyi çatallayın ve gh-pages branch'ını oluşturun. Eğer "http://{youraccount}.github.io/lets-get-arrested" URL'ini sosyal medyada paylaşırsanız daha etkili olacaktır. Twitter'da paylaşacaksanız `#letsgetarrested4jscode` etiketini kullanın.
 
-## Hala mu tutuklanmadın?
+## Hala tutuklanmadın mı?
 
-Polise kendinizi ihbar edip teslim olabilirsiniz.
+Kendinizi polise teslim edebilirsiniz.
