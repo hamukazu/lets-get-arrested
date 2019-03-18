@@ -22,13 +22,13 @@ Articles de presse associés:
 - (Japonaise) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (Anglais) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-Donc, cela est considéré comme un "crime" au Japon. Alors soyons des criminels et faisons-nous arrêter!
+Donc, c'est considéré comme un "crime" au Japon. Alors soyons des criminels et faisons-nous arrêter!
 
 Profitez de la vie criminelle!
 
 ## Comment se faire arrêter
 
-C'est facile. Fourchez ce projet et bifurquez-le en tant que gh-pages. C'est tout fait. Il serait plus efficace de partager l'URL "http://youraccount.github.io/lets-get-arrested" dans un média social.
+C'est facile. Créez une copie de ce projet (fork) et créez une branche gh-pages. C'est tout. Pour plus d'efficacité, partagez l'URL "http://youraccount.github.io/lets-get-arrested" sur vos médias sociaux.
 
 ## Vous n'avez pas été arrêté?
 
