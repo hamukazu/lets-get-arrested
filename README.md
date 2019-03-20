@@ -14,6 +14,7 @@ Related news articles:
 
 - (Japanese) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (English) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
+- (中文) [13 岁女孩因发布 JavaScript 无限循环代码被捕](https://www.infoq.cn/article/tRjjie9_OE21jeo7vBo2)
 
 So this is regarded as a "crime" in Japan. So let's be criminals and get arrested!
 
