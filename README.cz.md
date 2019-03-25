@@ -14,7 +14,7 @@ Více na:
 
 - [https://www.zive.cz/clanky/policie-vysetrovala-trinactiletou-japonku-protoze-sdilela-primitivni-javascript/sc-3-a-197615/default.aspx](https://www.zive.cz/clanky/policie-vysetrovala-trinactiletou-japonku-protoze-sdilela-primitivni-javascript/sc-3-a-197615/default.aspx) (Česky)
 - [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/) (Anglicky) 
-- [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html) (Japonsky)
+- [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html) (Japonsky)
 
 
 Ač to může znít neuvěřitelně, v zemi vycházejícího slunce se i tohle dá označit za trestný čin.
