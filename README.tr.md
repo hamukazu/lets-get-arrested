@@ -17,7 +17,7 @@ while (1) {
 
 Yani bu Japonya'da bir "suç" olarak kabul edilir. Öyleyse suçlu olalım ve tutuklanalım!
 
-Artık bir suçlu olarak yeni hayatınızın tadını çıkarın !
+Artık bir suçlu olarak yeni hayatınızın tadını çıkarın!
 
 ## Nasıl tutuklanırsın?
 
