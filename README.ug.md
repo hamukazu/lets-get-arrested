@@ -12,7 +12,7 @@ while (1) {
 
 ۋەقەگە مۇناسىۋەتلىك ئۇلانمىلار:
 
-- (ياپونچە) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (ياپونچە) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (ئېنگىلىزچە) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 دىمەك بۇ ياپونىيەدە "جىنايت" بولۇپ ھېسابلىنىدىكەن. قېنى ئەمىسە بىزمۇ جىنايەتچى بولۇپ قولغا ئېلىنايلى!
