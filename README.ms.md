@@ -11,7 +11,7 @@ while (1) {
 
 Berita yang berkaitan:
 
-- (Bahasa Jepun) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Bahasa Jepun) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (Bahasa Inggeris) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 Perkara ini dianggapkan sebagai suatu "jenayah" di Negara Jepun. Oleh itu, jom kita jadi jenayah dan ditangkap oleh pihak polis!
