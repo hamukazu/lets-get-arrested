@@ -19,7 +19,7 @@ Yani bu Japonya'da bir "suç" olarak kabul edilir. Öyleyse suçlu olalım ve tu
 
 Artık bir suçlu olarak yeni hayatınızın tadını çıkarın !
 
-## Nasıl tutuklanırsın
+## Nasıl tutuklanırsın?
 
 Çok kolay. Bu projeyi forklayın ve gh-pages branch'ını oluşturun. "http://{hesabının adı}.github.io/lets-get-arrested" linkini sosyal medyada paylaşmak daha da faydalı olur. Twitter'da paylaştığınızda, `#letsgetarrested4jscode` etiketini kullanın.
 
