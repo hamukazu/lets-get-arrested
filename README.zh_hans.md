@@ -4,9 +4,11 @@
 
 在日本，因为贴了一个前往包含下述无限警告循环的 JavaScript 的网站的链接，一名女中学生被警察逮捕并进行辅导：
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 相关新闻：
 [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
