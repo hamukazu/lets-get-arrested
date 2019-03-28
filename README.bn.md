@@ -14,7 +14,7 @@ while (1) {
 
 খবরে প্রচারিত এ সম্পর্কিত সংবাদঃ
 
-- (Japanese) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japanese) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (English) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 তাহলে জাপানে এটি একটি অপরাধ। চলুন আমরাও সবাই অপরাধী হয় এবং পুলিশ এর হাতে বন্দি হয়।
