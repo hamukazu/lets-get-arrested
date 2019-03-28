@@ -11,7 +11,7 @@ while (1) {
 ```
 
 Weiterführende Presseartikel:
-- (Japanisch) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japanisch) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (Englisch) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 Dies wird also in Japan als "Verbrechen" angesehen. Also lasst uns Kriminelle sein und lasst uns inhaftiert werden!
