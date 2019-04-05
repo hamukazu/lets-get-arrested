@@ -7,9 +7,9 @@
 - [français](README.fr.md)
 - [العربية](README.ar.md)
 
-# Projet-allons-se-faire-arrêter
+# Projet-faisons-nous-arrêter
 
-Au Japon, une collégienne a été arrêtée par la police pour avoir mis un lien vers un site Web avec une boucle d'alerte infini en JavaScript, comme ceci:
+Au Japon, une collégienne a été arrêtée par la police pour avoir mis un lien vers un site Web contenant une boucle infini avec un appel à `alert()` en JavaScript, comme ceci:
 
 ```js
 while (1) {
@@ -22,13 +22,13 @@ Articles de presse associés:
 - (Japonaise) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (Anglais) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-Donc, cela est considéré comme un "crime" au Japon. Alors soyons des criminels et faisons-nous arrêter!
+Donc, cela est considéré comme un "crime" au Japon. Alors devenons des criminels et faisons-nous arrêter!
 
 Profitez de la vie criminelle!
 
 ## Comment se faire arrêter
 
-C'est facile. Fourchez ce projet et bifurquez-le en tant que gh-pages. C'est tout fait. Il serait plus efficace de partager l'URL "http://youraccount.github.io/lets-get-arrested" dans un média social.
+C'est facile. Forkez ce projet et créez une branche appelée gh-pages. C'est tout fait. Il ne reste plus qu'à partager l'URL "http://youraccount.github.io/lets-get-arrested" sur vos réseaux sociaux.
 
 ## Vous n'avez pas été arrêté?
 
