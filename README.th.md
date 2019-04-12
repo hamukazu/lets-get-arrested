@@ -22,7 +22,7 @@ while (1) {
 
 ## ทำยังไงถึงจะถูกจับ
 
-ง่ายมากๆ แค่ Fork โปรเจคนี้ และสร้าง branch ไปเป็น gh-pages ก็เสร็จแล้ว จะได้ผลมากขึ้นถ้าแชร์ url "http://{youraccount}.github.io/lets-get-arrested" ในโซเชียลมีเดียด้วย
+ง่ายมากๆ แค่ Fork โปรเจคนี้ และสร้าง branch ไปเป็น gh-pages ก็เสร็จแล้ว จะได้ผลมากขึ้นถ้าแชร์ url "https://{youraccount}.github.io/lets-get-arrested" ในโซเชียลมีเดียด้วย
 
 ## ยังไม่ถูกจับหรอ
 

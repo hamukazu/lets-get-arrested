@@ -19,7 +19,7 @@ while (1) {
 
 ## 逮捕される方法
 
-簡単です。このプロジェクトをフォークし、 gh-pages ブランチを切ってください。それだけで終わりです。"http://{あなたのアカウント}.github.io/lets-get-arrested" という URL を SNS で共有するとより効果的でしょう。Twitterでシェアするときはハッシュタグ`#letsgetarrested4jscode`を使ってください。
+簡単です。このプロジェクトをフォークし、 gh-pages ブランチを切ってください。それだけで終わりです。"https://{あなたのアカウント}.github.io/lets-get-arrested" という URL を SNS で共有するとより効果的でしょう。Twitterでシェアするときはハッシュタグ`#letsgetarrested4jscode`を使ってください。
 
 ## なかなか逮捕されませんか？
 
