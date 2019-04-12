@@ -23,7 +23,6 @@ Do ĉi tio estas rigardata kiel "krimo" en Japanio. Do ni estu krimuloj kaj estu
 
 Estas facila. Forku ĉi tiun projekton kaj branĉu ĝin kiel gh-pages. Ĉio estas farita. Estus pli efika dividi la url "https://{youraccount}.github.io/lets-get-arrested" en Socia amaskomunikilaro.
 
-
 ## Ne arestita?
 
 Vi povas kapitulacigi vin al la polico.

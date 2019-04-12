@@ -23,7 +23,6 @@ Así que esto es considerado como un "crimen" en Japón. ¡Así que seamos crimi
 
 Es simple. _Forkea_ este proyecto y creá un _branch_ llamado `gh-pages`. Eso es todo. Podría ser más efectivo si compartís la url "https://{youraccount}.github.io/lets-get-arrested" en una SNS (_Servicio de Red Social_).
 
-
 ## ¿No te arrestaron?
 
 Puedes entregarte a la policía.
