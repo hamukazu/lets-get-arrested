@@ -1,11 +1,4 @@
 ﻿- [English](README.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Bahasa Indonesia](README.in.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
-- [français](README.fr.md)
-- [العربية](README.ar.md)
 
 # Projet-allons-se-faire-arrêter
 
@@ -28,7 +21,7 @@ Profitez de la vie criminelle!
 
 ## Comment se faire arrêter
 
-C'est facile. Fourchez ce projet et bifurquez-le en tant que gh-pages. C'est tout fait. Il serait plus efficace de partager l'URL "http://youraccount.github.io/lets-get-arrested" dans un média social.
+C'est facile. Fourchez ce projet et bifurquez-le en tant que gh-pages. C'est tout fait. Il serait plus efficace de partager l'URL "http://{youraccount}.github.io/lets-get-arrested" dans un média social.
 
 ## Vous n'avez pas été arrêté?
 

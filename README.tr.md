@@ -1,6 +1,5 @@
 - [English](README.md)
 
-
 # Hadi-Tutuklan Projesi
 
 Japonya'da ilkokuldaki bir kız websitesine şu şekilde sonsuz bir JavaScript döngüsü koyduğu için polisler tarafından tutuklandı:

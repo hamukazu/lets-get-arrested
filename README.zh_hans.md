@@ -5,7 +5,7 @@
 在日本，因为贴了一个前往包含下述无限警告循环的 JavaScript 的网站的链接，一名女中学生被警察逮捕并进行辅导：
 ```javascript
 while (1) {
-    alert("!");
+  alert("!");
 }
 ```
 
@@ -18,7 +18,7 @@ while (1) {
 
 ## 被捕方法
 
-非常简单，只要 Fork 本项目，并建立一个新的 gh-pages Branch。结束。当然如果分享 "http://你的账户.github.io/lets-get-arrested" 这个 URL 到各大 SNS 平台上口味更佳。
+非常简单，只要 Fork 本项目，并建立一个新的 gh-pages Branch。结束。当然如果分享 "http://{你的账户}.github.io/lets-get-arrested" 这个 URL 到各大 SNS 平台上口味更佳。
 
 ## 总是没有警察来逮捕你？
 

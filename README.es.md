@@ -21,7 +21,7 @@ Así que esto es considerado como un "crimen" en Japón. ¡Así que seamos crimi
 
 ## ¿Cómo ser arrestado?
 
-Es simple. _Forkea_ este proyecto y creá un _branch_ llamado `gh-pages`. Eso es todo. Podría ser más efectivo si compartís la url "http://youraccount.github.io/lets-get-arrested" en una SNS (_Servicio de Red Social_).
+Es simple. _Forkea_ este proyecto y creá un _branch_ llamado `gh-pages`. Eso es todo. Podría ser más efectivo si compartís la url "http://{youraccount}.github.io/lets-get-arrested" en una SNS (_Servicio de Red Social_).
 
 
 ## ¿No te arrestaron?
