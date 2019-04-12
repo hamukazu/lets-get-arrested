@@ -20,7 +20,7 @@ Menikmatilah kehidupan sebagai seorang penjenayah!
 
 ## Cara untuk ditangkap
 
-Mudah sahaja. "Fork" dan "brach" projek ini sebagai gh-pages. Untuk cara yang lebih efektif, kongsikan url "http://{youraccount}.github.io/lets-get-arrested" di laman media social.
+Mudah sahaja. "Fork" dan "brach" projek ini sebagai gh-pages. Untuk cara yang lebih efektif, kongsikan url "https://{youraccount}.github.io/lets-get-arrested" di laman media social.
 
 ## Belum ditangkap lagi?
 

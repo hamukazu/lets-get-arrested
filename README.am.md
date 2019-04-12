@@ -20,7 +20,7 @@ while (1) {
 
 ## Ինչպես ձերբակալվել
 
-Հեշտ է: «Fork» ըրե այս ծրագիրը եւ «branch» ըրե այն որպես «gh-pages»: Դա արվում է: Ավելի արդյունավետ կլինի սոցիալական ցանցերում «http://{youraccount}.github.io/lets-get-arrested» հղումը: Երբ եք կիսում Twitter-ում, օգտագործեք hashtag `#letsgetarrested4jscode`:
+Հեշտ է: «Fork» ըրե այս ծրագիրը եւ «branch» ըրե այն որպես «gh-pages»: Դա արվում է: Ավելի արդյունավետ կլինի սոցիալական ցանցերում «https://{youraccount}.github.io/lets-get-arrested» հղումը: Երբ եք կիսում Twitter-ում, օգտագործեք hashtag `#letsgetarrested4jscode`:
 
 ## Չես ձերբակալվա՞ծ:
 

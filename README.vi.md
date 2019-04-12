@@ -19,7 +19,7 @@ Tận hưởng cuộc đời giang hồ!
 
 ## Cách để bị bắt
 
-Đơn giản thôi. Fork repo này và đặt nó làm GitHub pages. Thế là xong. Nếu được thì có thể share url `http://{tài-khoản-của-bạn}.github.io/lets-get-arrested` trên các mạng xã hội.
+Đơn giản thôi. Fork repo này và đặt nó làm GitHub pages. Thế là xong. Nếu được thì có thể share url `https://{tài-khoản-của-bạn}.github.io/lets-get-arrested` trên các mạng xã hội.
 
 ## Nếu bạn vẫn chưa bị bắt?
 
