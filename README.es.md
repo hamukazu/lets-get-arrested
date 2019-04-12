@@ -2,7 +2,7 @@
 
 # Proyecto que-nos-arresten
 
-En Japón, una estudiante fue detenida por la policía por poner un _link_ a un sitio con un búcle infinito de `alerts` en JavaScript, similar a esto:
+En Japón, una estudiante fue detenida por la policía por poner un _link_ a un sitio con un bucle infinito de `alerts` en JavaScript, similar a esto:
 
 ```js
 while (1) {
@@ -21,7 +21,7 @@ Así que esto es considerado como un "crimen" en Japón. ¡Así que seamos crimi
 
 ## ¿Cómo ser arrestado?
 
-Es simple. _Forkea_ este proyecto y creá un _branch_ llamado `gh-pages`. Eso es todo. Podría ser más efectivo si compartís la url "https://youraccount.github.io/lets-get-arrested" en una SNS (_Servicio de Red Social_).
+Es simple. _Forkea_ este proyecto y crea un _branch_ llamado `gh-pages`. Eso es todo. Podría ser más efectivo si compartes la url "https://youraccount.github.io/lets-get-arrested" en una SNS (_Servicio de Red Social_).
 
 
 ## ¿No te arrestaron?
