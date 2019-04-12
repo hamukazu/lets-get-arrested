@@ -25,7 +25,7 @@ while (1) {
 
 Branch: "pages-gh"
 
-URL: "http://{youraccount}.github.io/lets-get-arrested"
+URL: "https://{youraccount}.github.io/lets-get-arrested"
 
 ## لم يتم القبض عليك؟
 

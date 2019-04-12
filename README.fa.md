@@ -22,7 +22,7 @@ while (1) {
 آسونه ، این پروژه را ببندید  به شکل
 gh-pages
 تمام .این بیشتر تاثیر گذار خواهد بود اگر به صورت
-url "http://{youraccount}.github.io/lets-get-arrested"
+url "https://{youraccount}.github.io/lets-get-arrested"
 در فضای مجازی قرار دهدید .
 وقتی شما لینک را در تویتر قرار می دهید از هشتگ , #letsgetarrested4jscode.
 استفاده کنید

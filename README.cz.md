@@ -23,7 +23,7 @@ Připojte se tedy k nám, staňte se zločinci a nechte se zatknout také!
 
 ## Jak na to
 
-Nemůže to být jednodušší. Stačí forknout tento repozitář a branchnout jej pod gh-pages. Toť vše! Pro zvýšení efektu sdílejte na sociálních médiích URL v podobě "http://{vasucet}.github.io/lets-get-arrested".
+Nemůže to být jednodušší. Stačí forknout tento repozitář a branchnout jej pod gh-pages. Toť vše! Pro zvýšení efektu sdílejte na sociálních médiích URL v podobě "https://{vasucet}.github.io/lets-get-arrested".
 
 ## Pořád si pro vás nepřišli?
 
