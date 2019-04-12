@@ -27,7 +27,7 @@ Divertiamoci ad essere criminali!
 
 ## Come farsi arrestare
 
-É semplice. Creare un _fork_ di questo progetto in un _branch_ per `gh-pages`. Tutto qui. Sarebbe piú efficace condividere l'url "http://youraccount.github.io/lets-get-arrested" in un social media.
+É semplice. Creare un _fork_ di questo progetto in un _branch_ per `gh-pages`. Tutto qui. Sarebbe piú efficace condividere l'url "https://youraccount.github.io/lets-get-arrested" in un social media.
 
 ## Non siete stati arrestati?
 

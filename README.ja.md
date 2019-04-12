@@ -1,4 +1,4 @@
-[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.in.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [français](README.fr.md) | [العربية](README.ar.md) | [Português Brasileiro](README.pt-br.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [简体中文](README.zh_hans.md) | [繁體中文](README.zh_hant.md) | [Türkçe](README.tr.md) | [বাংলা](README.bn.md)  | [Русский](README.ru.md) | [Polski](README.pl.md) | [Esperanto](README.eo.md) | [Svenska](README.se.md) | [Magyar](README.hu.md) | [Norsk](README.no.md) | [Bahasa Malaysia](README.ms.md) | [ภาษาไทย](README.th.md) | [Tiếng Việt](README.vi.md) | [Česky](README.cz.md) | [ئۇيغۇر](README.ug.md) | [Български](README.bg.md) | [Հայերեն](README.am.md)  | [فارسی](README.fa.md)
+[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.in.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [français](README.fr.md) | [العربية](README.ar.md) | [Português Brasileiro](README.pt-br.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [简体中文](README.zh_hans.md) | [繁體中文](README.zh_hant.md) | [Türkçe](README.tr.md) | [বাংলা](README.bn.md)  | [Русский](README.ru.md) | [Polski](README.pl.md) | [Esperanto](README.eo.md) | [Svenska](README.se.md) | [Magyar](README.hu.md) | [Norsk](README.no.md) | [Bahasa Malaysia](README.ms.md) | [ภาษาไทย](README.th.md) | [Tiếng Việt](README.vi.md) | [Česky](README.cz.md) | [ئۇيغۇر](README.ug.md) | [Български](README.bg.md) | [Հայերեն](README.am.md) | [فارسی](README.fa.md) | [Ελληνικά](README.gr.md)
 
 # みんなで逮捕されようプロジェクト
 
@@ -19,7 +19,7 @@ while (1) {
 
 ## 逮捕される方法
 
-簡単です。このプロジェクトをフォークし、 gh-pages ブランチを切ってください。それだけで終わりです。"http://{あなたのアカウント}.github.io/lets-get-arrested" という URL を SNS で共有するとより効果的でしょう。Twitterでシェアするときはハッシュタグ`#letsgetarrested4jscode`を使ってください。
+簡単です。このプロジェクトをフォークし、 gh-pages ブランチを切ってください。それだけで終わりです。"https://{あなたのアカウント}.github.io/lets-get-arrested" という URL を SNS で共有するとより効果的でしょう。Twitterでシェアするときはハッシュタグ`#letsgetarrested4jscode`を使ってください。
 
 ## なかなか逮捕されませんか？
 
