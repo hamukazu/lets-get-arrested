@@ -1,4 +1,7 @@
+- [English](README.md)
+
 # Dajmy się zaaresztować
+
 Uczennica z Japonii została złapana przez policję za wstawienie linku do strony z nieskończoną pętlą alertów w JavaSciptcie, coś jak:
 
 ```js
@@ -15,7 +18,7 @@ A zatem zostańmy przestępcami!
 
 ## Jak zostać przestępcą
 
-Łatwizna. Zrób forka tego projektu i zrób brancha gh-pages. To wszystko! Możesz też wstawić link do "https://twojekonto.github.io/lets-get-arrested" w miediach społecznościowych.
+Łatwizna. Zrób forka tego projektu i zrób brancha gh-pages. To wszystko! Możesz też wstawić link do "https://{twojekonto}.github.io/lets-get-arrested" w miediach społecznościowych.
 
 ## Zostałeś przestępcą ale nie trafiłeś do więzenia?
 

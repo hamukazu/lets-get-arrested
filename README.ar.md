@@ -1,11 +1,4 @@
 ﻿- [English](README.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Bahasa Indonesia](README.in.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
-- [français](README.fr.md)
-- [العربية](README.ar.md)
 
 # مشروع هيا بنا لنعتقل
 
@@ -32,7 +25,7 @@ while (1) {
 
 Branch: "pages-gh"
 
-URL: "https://youraccount.github.io/lets-get-arrested"
+URL: "https://{youraccount}.github.io/lets-get-arrested"
 
 ## لم يتم القبض عليك؟
 

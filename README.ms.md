@@ -1,6 +1,8 @@
+- [English](README.md)
+
 # Projek jom-ditangkap
 
-Seorang pelajar perempuan ditahan oleh polis di Jepun kerana dia letakkan link ke satu website yang mengandungi 
+Seorang pelajar perempuan ditahan oleh polis di Jepun kerana dia letakkan link ke satu website yang mengandungi
 kod JavaScript yang panggil kod alert tak henti-henti dalam endless loop seperti yang berikut:
 
 ```js

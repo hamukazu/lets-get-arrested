@@ -1,10 +1,4 @@
 - [English](README.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Bahasa Indonesia](README.in.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
-- [Italiano](README.it.md)
 
 # Progetto facciamoci arrestare
 
@@ -27,7 +21,7 @@ Divertiamoci ad essere criminali!
 
 ## Come farsi arrestare
 
-É semplice. Creare un _fork_ di questo progetto in un _branch_ per `gh-pages`. Tutto qui. Sarebbe piú efficace condividere l'url "https://youraccount.github.io/lets-get-arrested" in un social media.
+É semplice. Creare un _fork_ di questo progetto in un _branch_ per `gh-pages`. Tutto qui. Sarebbe piú efficace condividere l'url "https://{youraccount}.github.io/lets-get-arrested" in un social media.
 
 ## Non siete stati arrestati?
 
