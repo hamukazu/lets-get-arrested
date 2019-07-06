@@ -2,6 +2,8 @@
 
 # Lets-get-arrested Projekt
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 "Lets get arrested" steht für "Lasst uns verhaftet werden". In Japan wurde eine Schülerin von der Polizei verhaftet, weil sie einen Link zu einer Website mit einer Endlosschleife von Alarmen in JavaScript wie diesem geschaltet hatte:
 
 ```js

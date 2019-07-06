@@ -2,6 +2,8 @@
 
 # Proyecto que-nos-arresten
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 En Japón, una estudiante fue detenida por la policía por poner un _link_ a un sitio con un búcle infinito de `alerts` en JavaScript, similar a esto:
 
 ```js

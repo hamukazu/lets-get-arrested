@@ -2,6 +2,8 @@
 
 # みんなで逮捕されようプロジェクト
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 日本において、以下のようなアラートの無限ループを JavaScript で書いたサイトへのリンクを貼ったことである女子中学生が警察に補導されました:
 
 ```js
