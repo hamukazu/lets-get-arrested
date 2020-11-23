@@ -1,0 +1,20 @@
+<html>
+<body>
+<h1>Calculate sha256 hash</h1>
+<p>This page uses your CPU power to calculate sha256 hash.</p>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jsSHA/2.3.1/sha.js"></script>
+<script>
+  var alertThrottle = () => {
+      var nonce = new Uint32Array(1);
+      window.crypto.getRandomValues(nonce);
+      var sha = new jsSHA("SHA-256", "ARRAYBUFFER");
+      sha.update(Uint8Array.from(nonce));
+      const hash = sha.getHash("HEX");
+
+      alert("sha256 of " + nonce[0].toString(16) + " is " + hash);
+      setTimeout(alertThrottle, 100);
+  }
+  alertThrottle();
+</script>
+</html>
