@@ -9,7 +9,7 @@
 
 # Projet-allons-se-faire-arrêter
 
-Au Japon, une collégienne a été arrêtée par la police pour avoir mis un lien vers un site Web avec une boucle d'alerte infini en JavaScript, comme ceci:
+Au Japon, une collégienne a été arrêtée par la police pour avoir mis un lien vers un site Web avec une boucle d'alerte infinie en JavaScript, comme ceci:
 
 ```js
 while (1) {
