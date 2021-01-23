@@ -14,6 +14,7 @@ Related news articles:
 
 - (Japanese) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (English) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
+- (French) [https://www.clubic.com/insolite/actualite-851745-japonaise-13-ans-inculpee-blague-boucle-infinie-javascript.html](https://www.clubic.com/insolite/actualite-851745-japonaise-13-ans-inculpee-blague-boucle-infinie-javascript.html)
 
 So this is regarded as a "crime" in Japan. So let's be criminals and get arrested!
 
