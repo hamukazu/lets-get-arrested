@@ -19,7 +19,7 @@ Dies wird also in Japan als "Verbrechen" angesehen. Also lasst uns Kriminelle se
 Genieße das "kriminelle" Leben!
 
 ## Wie man verhaftet wird
-Es ist ganz einfach. Forke dieses Projekt und verzweige es als gh-pages. Schon ist alles erledigt. Es ist effektiver, die Url `https://{youraccount}.github.io/lets-get-arrested` auf sozialen Medien zu teilen. Wenn du ihn in Twitter teilst, verwende den Hashtag `#letsgetarrested4jscode`.
+Es ist ganz einfach. Forke dieses Projekt  und stelle bei GitHub Pages den branch auf `gh-pages`. Schon ist alles erledigt. Es ist effektiver, die Url `https://{youraccount}.github.io/lets-get-arrested` auf sozialen Medien zu teilen. Wenn du ihn in Twitter teilst, verwende den Hashtag `#letsgetarrested4jscode`.
 
 ## Nicht verhaftet?
 Du kannst dich der Polizei stellen.
