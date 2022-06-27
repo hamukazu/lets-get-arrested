@@ -11,11 +11,13 @@ Powiązane artykuły:
 - (Japoński) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (Angielski) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-A zatem zostańmy przestępcami!
+A więc w Japonii jest to uznawane za "przestępstwo".
+
+Zostańmy zatem przestępcami!
 
 ## Jak zostać przestępcą
 
-Łatwizna. Zrób forka tego projektu i zrób brancha gh-pages. To wszystko! Możesz też wstawić link do "https://twojekonto.github.io/lets-get-arrested" do mediów społecznościowych.
+Łatwizna. Zrób forka tego projektu i zrób brancha gh-pages. To wszystko! Możesz też wstawić link do "https://twojekonto.github.io/lets-get-arrested" do mediów społecznościowych. Jeśli chcesz to udostępnić na Twitterze, użyj hashtagu `#letsgetarrested4jscode`.
 
 ## Zostałeś przestępcą ale nie trafiłeś do więzenia?
 
