@@ -1,5 +1,5 @@
 # Dajmy się zaaresztować
-Uczennica z Japonii została złapana przez policję za wstawienie linku do strony z nieskończoną pętlą alertów w JavaSciptcie, coś jak:
+Uczennica z Japonii została złapana przez policję za wstawienie linku do strony z nieskończoną pętlą alertów w JavaScripcie, mniej więcej coś takiego:
 
 ```js
 while (1) {
