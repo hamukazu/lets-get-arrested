@@ -1,10 +1,10 @@
 - [English](README.md)
 
-# Lets-get-arrested project
+# Lets-get-arrested project (চলুন গ্রেফতার হই প্রকল্প)
 
-জাপানে একটি স্কুল ছাত্রিকে পুলিশ ধরেছে। কারণ ওই মেয়েটি একটি ওয়েব সাইটে একটি জাভাস্ক্রিপ্ট এন্ড লেস লুপ অ্যালারট লিঙ্ক প্রবেশ করিয়েছে।
+জাপানে একজন স্কুল ছাত্রীকে পুলিশ গ্রেফতার করে, কারণ মেয়েটি একটি ওয়েব সাইটে জাভাস্ক্রিপ্ট এর অসীম লুপ সতর্কতা লিংক প্রবেশ করিয়েছে।
 
-কোডটি নিচের মতঃ
+জাভাস্ক্রিপ্ট কোডটি ছিলো এরকমঃ
 
 ```js
 while (1) {
@@ -17,14 +17,14 @@ while (1) {
 - (Japanese) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (English) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-তাহলে জাপানে এটি একটি অপরাধ। চলুন আমরাও সবাই অপরাধী হয় এবং পুলিশ এর হাতে বন্দি হয়।
+তাহলে জাপানে এটি একটি অপরাধ। চলুন আমরাও সবাই অপরাধী হই এবং পুলিশের হাতে বন্ধী হই।
 
-অপরাধী জীবন উপভোগ করুন।
+অপরাধ জীবন উপভোগ করুন! 
 
-## How to get arrested
+## How to get arrested (কিভাবে গ্রেফতার হবেন?)
 
-এটা খুবই সহজ ব্যাপার। এই প্রোজেক্ট টি fork করুন এবং gh-pages ব্রাঞ্চ তৈরি করুন। এটা আরও ভালো হয় যদি আপনার url "https://youraccount.github.io/lets-get-arrested" টা সামাজিক যোগাযোগ মাধ্যমে ছড়িয়ে দেন।
+এটা খুবই সহজ ব্যাপার। এই প্রোজেক্টটি fork করুন এবং gh-pages ব্রাঞ্চ তৈরি করুন। এটা আরও ভালো হয় যদি আপনার url "https://youraccount.github.io/lets-get-arrested" টা সামাজিক যোগাযোগ মাধ্যমে ছড়িয়ে দেন।
 
-## Not arrested?
+## Not arrested? (এখনো গ্রেফতার হননি?)
 
-এখনো পুলিশ আপনাকে বন্দি না করলে নিজেই নিকটস্থ পুলিশ স্টেশনে নিজেকে সোপর্দ করুন।
+আপনি নিজেই নিজেকে পুলিশের হাতে সোপর্দ করতে পারেন।
